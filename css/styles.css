@@ -163,6 +163,13 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#john-molina-cover {
+  background-image: url("http://i.imgur.com/wMRk6vS.jpg");
+}
+
+#john-molina-card {
+  background-image: url("http://i.imgur.com/koY9SF5.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
