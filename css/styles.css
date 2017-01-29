@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#david-ordovskiy-cover {
+  background-image: url("http://wtf.jpg.wtf/e4/c9/1484250753-e4c98e35cf143713b3e781efefcc3be8.jpeg");
+}
+
+#david-ordovskiy-card {
+  background-image: url("http://wtf.jpg.wtf/c9/37/1484249796-c937d28ab7e7ac6c2666199a1c722464.jpeg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
