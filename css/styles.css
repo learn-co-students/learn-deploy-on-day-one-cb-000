@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#derek-kaknes-cover {
+  background-image: url("http://i.imgur.com/1IBpBYF.jpg");
+}
+
+#derek-kaknes-card {
+  background-image: url("http://i.imgur.com/qcf1NxD.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
