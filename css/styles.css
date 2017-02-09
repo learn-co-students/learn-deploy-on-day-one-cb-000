@@ -162,7 +162,13 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+#eric-lau-cover {
+   background-image: url("http://imgur.com/a/4ipSv");
+ }
 
+ #eric-lau-card {
+   background-image: url("http://imgur.com/a/4ipSv");
+ }
 .view-profile-div {
   position: absolute;
   bottom: 0;
