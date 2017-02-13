@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#andrew-zheng-cover {
+ background-image: url("http://i.imgur.com/KzL9cm1.jpg");
+}
+
+#andrew-zheng-card {
+ background-image: url("http://i.imgur.com/taQq4Fd.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -244,7 +252,7 @@ a:visited {
 }
 
 .profile-photo {
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+ background-image: url("http://i.imgur.com/taQq4Fd.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
