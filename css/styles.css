@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#lizzie-sorin-cover {
+  background-image: url("http://i.imgur.com/5te6B6a.png");
+}
+
+#lizzie-sorin-card {
+  background-image: url("http://i.imgur.com/Mtkq69b.png")
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
