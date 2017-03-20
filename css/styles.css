@@ -163,6 +163,13 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#rachel-tongco-cover {
+  background-image: url("http://i.imgur.com/N5g47qT.jpg");
+}
+
+#rachel-tongco-card {
+  background-image: url("http://i.imgur.com/pY98hLW.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
