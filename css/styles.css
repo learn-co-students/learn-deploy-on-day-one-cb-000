@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#alyssa-hogan-cover {
+ background-image: url("http://i.imgur.com/6iHFhjV.jpg");
+}
+
+#alyssa-hogan-card {
+ background-image: url("http://i.imgur.com/T3VrJKK.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -328,6 +336,7 @@ a:visited {
 .description-holder h5 {
   font-size: 16px;
   font-weight: normal;
+  margin-bottom: 24px;
 }
 
 .education-content div:nth-child(3),
