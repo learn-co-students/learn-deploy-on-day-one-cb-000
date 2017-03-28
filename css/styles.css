@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#jorge-cossi-cover {
+  background-image: url("http://i.imgur.com/dThi4WQ.jpg");
+}
+
+#jorge-cossi-card {
+  background-image: url("http://i.imgur.com/OdY3S0G.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
