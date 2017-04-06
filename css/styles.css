@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#garrett-gurnett-cover {
+ background-image: url("http://i.imgur.com/hlfZSoy.jpg");
+}
+
+#garrett-gurnett-card {
+ background-image: url("http://i.imgur.com/9sJb3OG.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
