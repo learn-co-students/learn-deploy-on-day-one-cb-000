@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#darnell-gillead-cover {
+  background-image: url("http://i.imgur.com/qDosTFS.jpg");
+}
+
+#darnell-gillead-card {
+  background-image: url("http://i.imgur.com/sLXR0Gk.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
