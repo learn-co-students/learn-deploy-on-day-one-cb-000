@@ -162,6 +162,13 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+#eleanor-thomas-cover {
+ background-image: url("http://i.imgur.com/NOA9z0w.jpg");
+}
+
+#eleanor-thomas-card {
+ background-image: url("http://i.imgur.com/pteuhJG.jpg");
+}
 
 .view-profile-div {
   position: absolute;
@@ -244,7 +251,7 @@ a:visited {
 }
 
 .profile-photo {
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+ background-image: url("http://i.imgur.com/TVpt2Jm.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
