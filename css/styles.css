@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#chris-reed-card{
+  background-image: url("http://imgur.com/SZ8u1w6.jpg");
+}
+
+#chris-reed-cover{
+  background-image: url("http://imgur.com/nut6UtT.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
