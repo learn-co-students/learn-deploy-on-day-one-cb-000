@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#sara-alarcon-card {
+ background-image: url("http://i.imgur.com/YLaeyjN.jpg.jpg");
+}
+
+#sara-alarcon-cover {
+ background-image: url("http://i.imgur.com/qTwoHwP.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
