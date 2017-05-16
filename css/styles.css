@@ -163,6 +163,13 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#ilana-pearlman-cover{
+  background-image: url("http://imgur.com/CMe3ZTi")
+}
+#ilana-pearlman-card{
+  background-image: url("https://avatars1.githubusercontent.com/u/6924886?v=3&amp;s=460")
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
