@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#ellysa-nichols-card {
+ background-image: url("http://i.imgur.com/12OQzq0.jpg");
+}
+
+#ellysa-nichols-cover {
+ background-image: url("http://i.imgur.com/YEhz9fu.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
