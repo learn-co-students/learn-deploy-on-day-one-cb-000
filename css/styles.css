@@ -151,8 +151,16 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez-cover.jpeg");
 }
 
+
 #mathieu-balez-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/mathieu-balez.jpeg");
+}
+#nicola-graham-cover{
+  background-image: url(http://i.imgur.com/YKMWXk6.jpg);
+}
+
+#nicola-graham-card{
+  background-image: url(http://i.imgur.com/eaQjlvZ.jpg);
 }
 
 #diane-vu-cover {
