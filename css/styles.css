@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#dan-blondell-card {
+ background-image: url("http://i.imgur.com/1aKydTS.jpg");
+}
+
+#dan-blondell-cover {
+ background-image: url("http://i.imgur.com/rdq44o9.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
