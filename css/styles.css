@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#carmen-campise-cover {
+ background-image: url("http://imgur.com/4eKe4cQ.jpg");
+}
+
+#carmen-campise-card {
+ background-image: url("http://imgur.com/EYlyMLM.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
