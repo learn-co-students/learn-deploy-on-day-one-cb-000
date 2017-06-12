@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#emma-story-cover {
+ background-image: url("http://i.imgur.com/g2lZ4iL.jpg");
+}
+
+#emma-story-card {
+  background-image: url("http://i.imgur.com/B2djquO.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
