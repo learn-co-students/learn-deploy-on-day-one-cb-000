@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#benjamin-paar-card {
+ background-image: url("http://imgur.com/0cUsixJ.jpg");
+}
+
+#benjamin-paar-cover {
+ background-image: url("http://imgur.com/BsTw2XQ.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
