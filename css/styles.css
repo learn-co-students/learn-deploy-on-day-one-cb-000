@@ -163,6 +163,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#bill-fero-card {
+    background-image: url('https://www.gravatar.com/avatar/c82c498da07fd6dc695a67f716f7f34f?s=400');
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -244,7 +248,8 @@ a:visited {
 }
 
 .profile-photo {
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+ /*background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");*/
+ background-image: url('https://www.gravatar.com/avatar/c82c498da07fd6dc695a67f716f7f34f?s=200');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
