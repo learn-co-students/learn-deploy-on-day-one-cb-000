@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#daniel-shiling-cover {
+   background-image: url("http://www.twitrcovers.com/wp-content/uploads/2014/12/Canada-Dog-l.jpg");
+ }
+
+ #daniel-shiling-card {
+   background-image: url('https://scontent.xx.fbcdn.net/v/t1.0-9/10801722_10205759968459627_5468964659136970442_n.jpg?oh=318442de90080a0b902d26eea1629519&oe=59C8189A');
+ }
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
