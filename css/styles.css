@@ -6,6 +6,14 @@
   /*border: 1px solid red;*/
 }
 
+#matt-harp-cover {
+  background-image: url("http://i.imgur.com/NtRwVZr.jpg");
+}
+
+#matt-harp-card {
+  background-image: url("http://i.imgur.com/2jago7A.jpg");
+}
+
 html {
   font-size: 15px;
   color: #282828;
