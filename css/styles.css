@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#Liz-Jenerson-card {
+ background-image: url("http://i.imgur.com/F0DKs0X.jpg");
+}
+
+#Liz-Jenerson-cover {
+ background-image: url("http://i.imgur.com/yVk3SMl.jpg?1");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
