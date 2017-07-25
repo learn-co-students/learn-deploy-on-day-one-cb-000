@@ -162,7 +162,14 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+#michael-palmer-cover {
 
+  background-image: url(http://i.imgur.com/WBa9a9L.jpg);
+}
+#michael-palmer-card {
+
+  background-image: url(http://i.imgur.com/FayDKFA.jpg)
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
