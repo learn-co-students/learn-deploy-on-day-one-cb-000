@@ -1,3 +1,6 @@
+/* cover: http://imgur.com/FOL5tij
+profile: http://imgur.com/GFaCzBD */
+
 /* GLOBAL STYLES
 ======================== */
 
@@ -163,6 +166,13 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#kelly-mccain-cover {
+ background-image: url("http://i.imgur.com/0VrP8pb.jpg");
+}
+
+#kelly-mccain-card {
+ background-image: url("http://i.imgur.com/SLAww7I.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
