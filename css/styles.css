@@ -133,6 +133,10 @@ a:visited {
   height: 400px;
 }
 
+#ashley-ryan-card {
+  background-image: url("http://i.imgur.com/4Z9vfgF.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
