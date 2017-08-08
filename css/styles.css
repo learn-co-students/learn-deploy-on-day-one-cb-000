@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#kunpeng-liu-card {
+ background-image: url("http://imgur.com/cpekriC.jpg");
+}
+
+#kunpeng-liu-cover {
+ background-image: url("http://i.imgur.com/rJyWkom.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
