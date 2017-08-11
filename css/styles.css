@@ -133,6 +133,10 @@ a:visited {
   height: 400px;
 }
 
+#kari-schendel-card {
+  background-image: url("http://imgur.com/F3bkLvB")
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
