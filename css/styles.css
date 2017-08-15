@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#guilherme-sonoda-cover {
+ background-image: url("http://imgur.com/a/hrXJX");
+}
+
+#guilherme-sonoda-card {
+ background-image: url("http://imgur.com/a/s1tPd");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
