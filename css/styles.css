@@ -133,13 +133,25 @@ a:visited {
   height: 400px;
 }
 
-#joe-burgess-card {
- background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
+
+
+#gerald-ingraham-cover {
+ background-image: url("http://i.imgur.com/zLqnQI0.jpg");
 }
+
+
+#gerald-ingraham-card {
+ background-image: url("http://i.imgur.com/384u8IK.jpg");
+}
+
 
 #joe-burgess-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
 }
+#joe-burgess-card {
+ background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
+}
+
 
 #avi-flombaum-card {
 }
