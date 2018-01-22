@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#alec-german-cover {
+  background-image: url('http://imgur.com/OJBdBRF');
+}
+
+#alec-german-card {
+  background-image: url('http://imgur.com/a/4ocxH');
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -392,6 +400,7 @@ a:visited {
   /* profile.html */
 
   .profile-quote {
+    font-style: italic;
     width: 70%;
   }
 }
