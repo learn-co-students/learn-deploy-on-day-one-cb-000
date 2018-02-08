@@ -451,7 +451,13 @@ a:visited {
 
 }
 
+#chandana-malepati-cover {
+  background-image: url("https://imgur.com/az0TFB4");
+}
 
+#chandana-malepati-card {
+  background-image: url("https://imgur.com/HWeQby8");
+}
 /* CLEARFIX HACK
 ======================== */
 
