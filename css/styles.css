@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#michael-hohl-cover {
+ background-image: url("http://9mph.com/backstage/images/IMG_0001.jpg");
+}
+
+#michael-hohl-card {
+ background-image: url("http://9mph.com/backstage/images/IMG_0020.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
