@@ -133,6 +133,10 @@ a:visited {
   height: 400px;
 }
 
+#vishal-sharma-card {
+  background-image: url();
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
