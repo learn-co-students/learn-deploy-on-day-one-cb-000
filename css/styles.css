@@ -163,6 +163,15 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#kirby-campbell-cover {
+ background-image: url("https://imgur.com/a/VidA7Bq.png");
+}
+
+#kirby-campbell-card {
+ background-image: url("https://imgur.com/Wrje1H8.png");
+}
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
