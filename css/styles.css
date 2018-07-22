@@ -1,6 +1,11 @@
 /* GLOBAL STYLES
 ======================== */
 
+/* https://imgur.com/a/NeKG9LN */ /*FOTO DE PERFIL*/
+/* https://imgur.com/a/uRg0HGA */ /*FOTO DE PORTADA*/
+/* https://imgur.com/a/trtTeCy */ /*FOTO DE PORTADA 2*/
+
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -139,6 +144,14 @@ a:visited {
 
 #joe-burgess-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
+}
+
+#joaquin-herrera-card {
+ background-image: url("https://i.imgur.com/Gi0EPGT.jpg");
+}
+
+#joaquin-herrera-cover {
+ background-image: url("https://i.imgur.com/WA6M1TM.jpg?1");
 }
 
 #avi-flombaum-card {
