@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#zachary-chlipala-cover {
+  background-image: url("https://i.imgur.com/MPcIWY5.jpg");
+}
+
+#zachary-chlipala-card {
+  background-image: url("https://i.imgur.com/gdw3nkw.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
@@ -364,6 +372,8 @@ a:visited {
   }
 
   /* profile.html */
+
+
   .profile-quote {
     width: 80%;
   }
