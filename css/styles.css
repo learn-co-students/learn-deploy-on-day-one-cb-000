@@ -10,7 +10,13 @@ html {
   font-size: 15px;
   color: #282828;
 }
+#tomaz-rodrigues-cover {
+ background-image: url("https://imgur.com/c7iyDKv");
+}
 
+#tomaz-rodrigues-card {
+ background-image: url("https://imgur.com/qoE1UhT");
+}
 body {
   font-family: "GothamPro", Helvetica, Arial, sans-serif;
 }
