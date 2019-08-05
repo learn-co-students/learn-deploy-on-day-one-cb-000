@@ -8,17 +8,17 @@ We have already created a template, but you need to use your Git, HTML and CSS s
 
 You'll need the following information about yourself:
 
-* Name
-* Blog Url (if you have one)
-* Twitter URL
-* LinkedIn URL
-* Github URL
-* Tagline
-* Profile Picture (something normal, a headshot, of a good reusable size that can be easily cropped)
+* Name: AMB
+* Blog Url (if you have one): #
+* Twitter URL: https://twitter.com/AbdilahiMBashir
+* LinkedIn URL: https://www.linkedin.com/in/abdillahi-m-bashir-mba-14b2b933/
+* Github URL: https://github.com/abdillahi09
+* Tagline: "Where there's a will, there's a way!"
+* Profile Picture: My desktop 'image not available'
 * Background Picture (like your cover picture from Twitter)
-* Previous Work Experience
-* Short Bio
-* Education
+* Previous Work Experience: Worked in Trucking Industry/Car Rental Industry
+* Short Bio: Grew up in Somalia and now lives in USA.
+* Education: MBA from West Texas A&M University - Bachelors of Economics from IHU Somalia.
 
 ## Structure
 
@@ -71,12 +71,12 @@ The first thing you'll need to do is add your image assets.
     * If you hover over the top right of each image, you should see a link with 3 little dots on the left, hover over those dots and copy the *direct link* URL and paste that somewhere safe. *You will need to use these links in the `css/styles.css` file to be able to display the images in your profile*.
 
 
-  
+
   * Now we're ready to create the CSS rules that we can use to display our pictures in the HTML later on.
    * Head to the `css/styles.css` file.
    * check out some students css in the file to see what you'll need to do.
-   
-  It should look something like this 
+
+  It should look something like this
 
 ```css
   #firstname-lastname-cover {
@@ -88,7 +88,7 @@ The first thing you'll need to do is add your image assets.
   }
 
 ```
-   
+
 #### Add your Profile page
 
   1. Copy another students `student-name.html` file and rename it to your name.
