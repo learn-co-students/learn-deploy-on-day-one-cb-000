@@ -162,6 +162,9 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+#skarlas-panos-card {
+  background-image: url("https://avatars1.githubusercontent.com/u/12958182?v=3&s=460");
+}
 
 .view-profile-div {
   position: absolute;
