@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#brian-johnson-cover {
+ background-image: url("http://i.imgur.com/O41tylc.jpg");
+}
+
+#brian-johnson-card {
+ background-image: url("http://i.imgur.com/GQImiEi.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
