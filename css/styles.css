@@ -141,6 +141,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
 }
 
+#matt-rhone-cover {
+  background-image: url("http://i.imgur.com/JwwNCjx.jpg");
+}
+
 #avi-flombaum-card {
 }
 
@@ -161,6 +165,10 @@ a:visited {
 
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+
+#matt-rhone-card {
+ background-image: url("http://i.imgur.com/geEUkow.jpg");
 }
 
 .view-profile-div {
