@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#james-garcia-cover {
+  background-image: url("http://imgur.com/RTrjC5c.jpg");
+}
+
+#james-garcia-card {
+  background-image: url("http://imgur.com/wrREHxR.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
