@@ -163,6 +163,13 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#cedric-david-card {
+  background-image: url("http://i.imgur.com/q2yBMRT.jpg");
+}
+#cedric-david-cover {
+  background-image: url("http://i.imgur.com/DQWHdgt.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
@@ -331,7 +338,9 @@ a:visited {
 }
 
 .education-content div:nth-child(3),
-.experience-content div:nth-child(3) {
+.experience-content div:nth-child(3),
+.experience-content div:nth-child(4),
+.experience-content div:nth-child(5) {
   padding-top: 15px;
   margin-top: 15px;
   border-top: 1px dotted #85929d;
